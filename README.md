@@ -1,3 +1,5 @@
 * [rokivo](http://www.rokivo.com/)
 * [kangax](https://kangax.github.io/compat-table/es6/)
 * [krakenjs](http://krakenjs.com/)
+* [freefavicon](https://www.freefavicon.com/freefavicons/objects/alpha.php?alpha=m)
+* [datproject](https://github.com/datproject/dat)

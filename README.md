@@ -10,3 +10,17 @@
 * [frontend-starter-kit](https://github.com/rstacruz/frontend-starter-kit)
 * [til](http://ricostacruz.com/til/)
 * [modern-development](https://github.com/rstacruz/modern-development)
+* [adonisjs](http://www.adonisjs.com/)
+* [simpl](http://simpl.info/)
+* [ageofempire](http://7044232.weebly.talkiforum.com/20110502/age-of-empires-iii-torrent-no-install-require-550618/)
+* [ionix-sqlite](https://github.com/mirkonasato/ionix-sqlite)
+* [ionic2byExample](https://www.udemy.com/ionic2-by-example/)
+* [html5ConstraintValidation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
+* []()
+
+
+
+
+* [template](template)
+
+

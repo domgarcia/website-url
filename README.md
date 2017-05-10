@@ -40,17 +40,28 @@
 * [Powerful-Form-Validation](http://www.jqueryscript.net/demo/Powerful-Form-Validation-Plugin-For-jQuery-Bootstrap-3/)
 * [Form-Plugin-Ideal-Forms](http://www.jqueryscript.net/form/Powerful-Responsive-jQuery-Step-By-Step-Form-Plugin-Ideal-Forms-3.html)
 * [nwjs](https://nwjs.io/)
-
+* [developer-roadmap](https://github.com/AUSdomgarcia/developer-roadmap)
+* [stack-overflow-trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
+ 
+ 
+ 
 
 
 * [template](template)
 
 
+Decoder Tool
+------------
+* [codebeautify](http://codebeautify.org)
+ 
 
 thoughts
 --------
 Convention over configuration
 LTS Long Term Support
+
+
+
 
 
 

@@ -11,13 +11,13 @@ Classes, methods, variables, parameters and packages may be annotated.
 6.1 Annotate - add notes to (a text or diagram) giving explanation or comment.
 7. Typically - in most cases; usually.
 8. shallow  - of little depth
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+9.  Minify and Obfuscate
+10. Bundle JS
+11. SystemJS - Module system
+12. Zonjs - require commonjs
+13. oppose - disapprove of and attempt to prevent, especially by argument.
+14. 
+15. 
 
 
 

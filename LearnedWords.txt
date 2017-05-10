@@ -6,7 +6,18 @@ Memorize Words
 3. Finite - having limits or bounds, limited, restricted, determinate, fixed
 4. Yield - produce or provide
 5. Explicit - stated clearly and in detail
-6. 
+6. Annotation - can be used as a special form of syntactic metadata in the source code. 
+Classes, methods, variables, parameters and packages may be annotated.
+6.1 Annotate - add notes to (a text or diagram) giving explanation or comment.
+7. Typically - in most cases; usually.
+8. shallow  - of little depth
+9.
+10.
+11.
+12.
+13.
+14.
+15.
 
 
 

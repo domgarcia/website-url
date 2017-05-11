@@ -42,9 +42,10 @@
 * [nwjs](https://nwjs.io/)
 * [developer-roadmap](https://github.com/AUSdomgarcia/developer-roadmap)
 * [stack-overflow-trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
- 
- 
- 
+* [permissions]( https://www.washington.edu/computing/unix/permissions.html)
+* [pocketjoso](https://github.com/pocketjoso/penthouse)
+
+
 
 
 * [template](template)

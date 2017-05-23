@@ -44,7 +44,11 @@
 * [stack-overflow-trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
 * [permissions]( https://www.washington.edu/computing/unix/permissions.html)
 * [pocketjoso](https://github.com/pocketjoso/penthouse)
-
+* [design_patterns](https://sourcemaking.com/design_patterns)
+* [cluster](https://nodejs.org/api/cluster.html)
+* [throng](https://www.npmjs.com/package/throng)
+* [svbtle](https://svbtle.com/promise)
+* [graphql](http://graphql.org/)
 
 
 

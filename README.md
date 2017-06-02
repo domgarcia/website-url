@@ -49,6 +49,12 @@
 * [throng](https://www.npmjs.com/package/throng)
 * [svbtle](https://svbtle.com/promise)
 * [graphql](http://graphql.org/)
+* [sqlite_datatypes](http://www.sqlite.org/datatypes.html)
+* [apolloGRAPHQL](http://dev.apollodata.com/)
+* [template](template)
+* [angular-animation](https://angular.io/docs/ts/latest/guide/animations.html)
+* [angular-material](https://material.angular.io/guide/getting-started)
+
 
 
 

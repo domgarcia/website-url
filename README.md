@@ -54,7 +54,8 @@
 * [template](template)
 * [angular-animation](https://angular.io/docs/ts/latest/guide/animations.html)
 * [angular-material](https://material.angular.io/guide/getting-started)
-
+* [idyll](http://idyll-lang.org/)
+* [http://play.witheve](http://play.witheve.com/#/examples/flappy.eve)
 
 
 
@@ -105,6 +106,7 @@ take advantage of the resources available to you and keep at it and your hard wo
 
 
 
+```
 2500 - PagIBIG
 1500+- Bahay Kuryente Camarin
 500 +- Bahay Tubig Camarin
@@ -114,3 +116,4 @@ take advantage of the resources available to you and keep at it and your hard wo
 550  - My SSS
 ----------------------
 10,050 Total
+```
